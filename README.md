@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript and Kotlin**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github]([Github](https://github.com/KayGee07?tab=repositories))
 
 - 💬 Ask me about **HTML, CSS**
 
