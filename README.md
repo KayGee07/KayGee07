@@ -5,7 +5,7 @@
 <img align="right" alt="CodingGirl" width="400" src="https://camo.githubusercontent.com/e0f095b942a931f7218f2e9af6a18c791f6d7724b2e524c6509626e3fd7541b5/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739">
 
 
-- 🔭 I’m currently working on [Weather App](https://weatherapppkaygee07.netlify.app/)
+- 🔭 I’m currently working on a [Web App](https://github.com/KayGee07/Weather-App) for the weather. Check it out on this link ➡️ [Weather App](https://weatherapppkaygee07.netlify.app/)
 
 - 🌱 I’m currently learning **JavaScript and Kotlin**
 
